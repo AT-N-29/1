@@ -1,0 +1,29 @@
+*{
+  margin: 0px;
+  }
+  .r{
+  background-image: url('https://i.ibb.co/vXdtZwR/545decd647951024782f419b3b40126d.jpg');  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 1028px;
+  width: 1028px;
+  
+}
+.e{
+  font-family: Times New Roman;
+  padding: 10px;
+  color: #1E90FF;
+}
+.u{
+  color: #fff;
+  padding: 8px 22px;
+  border-radius: 6px;
+  background: #7d2ae8;
+  transition: all 0.2s ease;
+  margin-top: 80px;
+  margin-left:190px;
+}
+button:active {
+  transform: scale(0.96)
+  }
